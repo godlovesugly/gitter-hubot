@@ -8,6 +8,7 @@
     "hubot-gitter2": "^0.1.3"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "0.10.x",
+    "google-spreadsheet": "file:local_modules/node-google-spreadsheet"
   }
 }
